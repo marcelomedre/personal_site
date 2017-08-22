@@ -6,7 +6,8 @@ I am a chemist working as a postdoctoral researcher associate ate the University
 
 ## **Brief CV**
 
-<span style="color:red">**Edu**</span>**cation**
+###<span style="color:red">**Edu**</span>**cation**  
+
 **PhD** in Chemistry, December 2014, University of São Paulo.  
 
 **MS** in Science and Technology, February 2011, Londrina State University.  
@@ -14,27 +15,27 @@ I am a chemist working as a postdoctoral researcher associate ate the University
 **BA** in Chemistry, December 2008, Londrina State University.  
 
 
-<span style="color:green">**Res**</span>**earch Experience**
+###<span style="color:green">**Res**</span>**earch Experience**
 
-**Postdoctoral** Researcher Associate, University of São Paulo, 2016 - .  
+**Postdoctoral** Researcher Associate, University of Sao Paulo, 2016 - .   
 **Postdoctoral** Visiting Researcher, European Laboratory for Non-Linear Spectroscopy, Florence - Italy, 2015-2016.  
 
-**Postdoctoral** Researcher Associate, University of São Paulo, 2015.  
+**Postdoctoral** Researcher Associate, University of Sao Paulo, 2015.  
 
 
-<span style="color:orange">**Peer**</span>**-reviewed Publications**  
+###<span style="color:orange">**Peer**</span>**-reviewed Publications**  
 
-Borsato, D.; Moreira, I.; **Nobrega, M. M.**; Moreira, M. B.; da Silva, R.; Bona, E. Modeling and Simulation of the Osmotic Dehydration Process of Pineapple’s Pieces Using the Finite Element Method. Quim. Nova 2009, 32 (8), 2109-U143.  
+Borsato, D.; Moreira, I.; **Nobrega, M. M.**; Moreira, M. B.; da Silva, R.; Bona, E. Modeling and Simulation of the Osmotic Dehydration Process of Pineapples Pieces Using the Finite Element Method. Quim. Nova 2009, 32 (8), 2109.  
 
-Borsato, D.; Moreira, I.; da Silva, R.; Bona, E.; **Nobrega, M. M.**; Pina, M. V. R.; Moreira, M. B. Simulation of the Multicomponent Diffusion during the Osmotic Dehydration of Apple: Determination of the Diffusion Coefficients by the Simplex Method. Semin. Agrar. 2010, 31 (2), 391–403.  
+Borsato, D.; Moreira, I.; da Silva, R.; Bona, E.; **Nobrega, M. M.**; Pina, M. V. R.; Moreira, M. B. Simulation of the Multicomponent Diffusion during the Osmotic Dehydration of Apple: Determination of the Diffusion Coefficients by the Simplex Method. Semin. Agrar. 2010, 31 (2), 391.  
 
-Borsato, D.; Moreira, I.; **Nobrega, M. M.**; Moreira, M. B.; Dias, G. H.; da Silva, R.; Bona, E. Application of Artificial Neural Networks in the Identification of Tampered Gasoline Commercialized in the Region of Londrina - Paraná. Quim. Nova 2009, 32 (9), 2328–2332.  
+Borsato, D.; Moreira, I.; **Nobrega, M. M.**; Moreira, M. B.; Dias, G. H.; da Silva, R.; Bona, E. Application of Artificial Neural Networks in the Identification of Tampered Gasoline Commercialized in the Region of Londrina - Parana. Quim. Nova 2009, 32 (9), 2328.  
 
-Medri, W.; Soeiro, J. da C.; Yotsumoto, A. S.; Dalmas, J. C.; **Nobrega, M. M.**. Amostragem Probabilística No Controle Da Qualidade Da Água Para O Consumo Humano. Semin. Ciências Exatas e Tecnológicas 2012, 33 (1), 49–56.  
+Medri, W.; Soeiro, J. da C.; Yotsumoto, A. S.; Dalmas, J. C.; **Nobrega, M. M.**. Amostragem Probabilistica No Controle Da Qualidade Da Agua Para O Consumo Humano. Semin. Ciencias Exatas e Tecnologicas 2012, 33 (1), 49.  
 
-**Nobrega, M. M.**; Bona, E.; Yamashita, F. An Artificial Neural Network Model for the Prediction of Mechanical and Barrier Properties of Biodegradable Films. Mater. Sci. Eng. C 2013, 33 (7), 4331–4336.  
+**Nobrega, M. M.**; Bona, E.; Yamashita, F. An Artificial Neural Network Model for the Prediction of Mechanical and Barrier Properties of Biodegradable Films. Mater. Sci. Eng. C 2013, 33 (7), 4331.   
 
-Olivato, J. B.; **Nobrega, M. M.**; Müller, C. M. O.; Shirai, M. A.; Yamashita, F.; Grossmann, M. V. E. Mixture Design Applied for the Study of the Tartaric Acid Effect on Starch/polyester Films. Carbohydr. Polym. 2013, 92 (2), 1705–1710.  
+Olivato, J. B.; **Nobrega, M. M.**; Müller, C. M. O.; Shirai, M. A.; Yamashita, F.; Grossmann, M. V. E. Mixture Design Applied for the Study of the Tartaric Acid Effect on Starch/polyester Films. Carbohydr. Polym. 2013, 92 (2), 1705.  
 
 
 
