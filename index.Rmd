@@ -2,4 +2,7 @@
 title: "Personal Website"
 ---
 
-![alllll](foto.jpg)
+```{r echo = FALSE, out.width = "10%"}
+knitr::include_graphics("./foto.jpg") 
+```
+
