@@ -8,7 +8,7 @@ Some projects I have been working on for fun or for business.
 
 ## [Modeling](http://rpubs.com/marcelomedre/299895)
 
-A study witht the `Churn` data set of the `C50 package`.   
+A study with the `Churn` data set of the `C50 package`.   
   - Data was analysed.  
   - Fators affecting the terminations were explored.   
   - Correlation among variables.  
