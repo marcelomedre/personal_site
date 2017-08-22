@@ -2,4 +2,8 @@
 title: "About Me"
 ---
 
-Why I am awesome.
+I am a chemist working as a postdoctoral researcher associate ate the University of Sao Paulo fired up about data analysis.  
+
+** Brief CV **
+
+<span style="color:red">**Edu**</span>**cation**
