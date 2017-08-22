@@ -10,7 +10,7 @@ I am a chemist working as a postdoctoral researcher associate at the University 
 
 **Specialization** in Data Science, Johns Hopkins University via Coursera, in progress.  
 
-**PhD** in Chemistry, December 2014, University of São Paulo.  
+**PhD** in Chemistry, December 2014, University of Sao Paulo.  
 
 **MS** in Science and Technology, February 2011, Londrina State University.  
 
@@ -41,20 +41,20 @@ Medri, W.; Soeiro, J. da C.; Yotsumoto, A. S.; Dalmas, J. C.; **Nobrega, M. M.**
 Olivato, J. B.; **Nobrega, M. M.**; Muller, C. M. O.; Shirai, M. A.; Yamashita, F.; Grossmann, M. V. E. Mixture Design Applied for the Study of the Tartaric Acid Effect on Starch/polyester Films. Carbohydr. Polym. 2013, 92 (2), 1705.  
 
 
-**languages**
+**languages**  
   - Portuguese, mother tongue.  
   - Fluent English, written, & oral skills.   
   - Advanced Italian, written, & oral skills.  
 
 
-**programming**
+**programming**  
   - R
 
-**defining attributes**
+**defining attributes**  
 goal-driven, leadership, analytic skills, strategic thinking,
 public speaking, organizational and communication skills.
 
-**github**
+**github**  
 marcelomedre
 
 
