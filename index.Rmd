@@ -1,11 +1,14 @@
 ---
 title: "Personal Website"
 ---
+```{r, echo = FALSE, fig.align='left', out.width="400px"}
+knitr::include_graphics("./foto.jpg")
+```
 
 * University of Sao Paulo Postdoctoral Research Associate  
 * Johns Hopkins Data Science Specialization Student  
 * Preditive Models
-* Looking for an opportunity to begin a carreer as Data Scientist
+* Looking for an opportunity to begin my carreer as Data Scientist
 * Marathonist
 
 
