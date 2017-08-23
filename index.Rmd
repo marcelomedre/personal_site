@@ -2,15 +2,18 @@
 title: "Personal Website"
 ---
   
-  
-```{r, echo = FALSE, fig.align='center', out.width="30%"}
-knitr::include_graphics("./foto.jpg")
-```
+<left>
+![](./foto.jpg){width = 30%}
+</left>
 
+
+
+<right>
 * University of Sao Paulo Postdoctoral Research Associate  
 * Johns Hopkins Data Science Specialization Student  
 * Preditive Models
 * Looking for an opportunity to begin my carreer as Data Scientist
 * Marathonist
 
+</right>
 
