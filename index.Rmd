@@ -2,16 +2,16 @@
 title: "Personal Website"
 ---
   
-```{r, echo = FALSE, fig.align='center', out.height="150px"}
+```{r, echo = FALSE, fig.align='center', out.width="250px"}
 knitr::include_graphics("./foto.jpg")
 ```
 
 * University of Sao Paulo Postdoctoral Research Associate    
-
+  
 * Johns Hopkins Data Science Specialization Student    
-
+  
 * Looking for an opportunity to begin my carreer as Data Scientist   
-
+  
 * Marathonist
 
 
